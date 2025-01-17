@@ -1,5 +1,3 @@
-# Adam's Portfolio
-
 ## Project 1: An analysis of data on educational attainment and deprivation in Scotland"
 
 This project was completed as a coursework in my degree in Mathematics. The PDF is the final piece, the raw RStudio code is also available to see.
