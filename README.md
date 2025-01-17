@@ -1,4 +1,4 @@
-#Adam's Portfolio
+# Adam's Portfolio
 
 **"An analysis of data on educational attainment and deprivation in Scotland"**
 
